@@ -9,8 +9,8 @@ The intend here was to create a forecasting model for our ticketing data , with 
 We are using the 
 * Spark on Azure datarbicks 
 * Pandas 
-<<<<<<< HEAD
 * [Prophet package for forecasting](https://facebook.github.io/prophet/) 
+
 ![image](https://user-images.githubusercontent.com/47539458/191912302-c6d029a2-6e45-49bb-ae4e-b35071b26e6f.png)
 
 
