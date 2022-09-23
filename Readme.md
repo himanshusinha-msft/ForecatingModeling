@@ -9,6 +9,7 @@ The intend here was to create a forecasting model for our ticketing data , with 
 We are using the 
 * Spark on Azure datarbicks 
 * Pandas 
+<<<<<<< HEAD
 * [Prophet package for forecasting](https://facebook.github.io/prophet/) 
 ![image](https://user-images.githubusercontent.com/47539458/191912302-c6d029a2-6e45-49bb-ae4e-b35071b26e6f.png)
 
@@ -39,6 +40,9 @@ The  below graph  shows the prediction for the sub-team. The trend is positive
 The  below graph  shows the prediction for the sub-team. The trend is negative and as you can see the volume is going down  
 
 ![image](https://user-images.githubusercontent.com/47539458/191911359-0149a080-eabb-4abd-b133-02f95f1e39b3.png)
+=======
+* Prophet package for forecasting 
+>>>>>>> 23ae7b718c5cebad3393141f0f6660e0140022c1
 
 
  
