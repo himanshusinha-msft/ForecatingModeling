@@ -9,4 +9,7 @@ The intend here was to create a forecasting model for our ticketing data , with 
 We are using the 
 * Spark on Azure datarbicks 
 * Pandas 
-* Prophet package for forecasting  
+* Prophet package for forecasting 
+
+
+ 
